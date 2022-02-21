@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "466b7697f103025b",
+    "type": "split",
+    "children": [
+      {
+        "id": "089ea280ab7ea7c4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "LeetCode/448 - Find All Numbers Disappeared in an Array.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e97366c0d93fcf02",
+    "type": "split",
+    "children": [
+      {
+        "id": "051426ca0abc5b1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32a15771425a596f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "65948db8b76d6a76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbfdb65d28988450",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ccec90c4039f6a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db3e789e0e4341a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LeetCode/448 - Find All Numbers Disappeared in an Array.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "089ea280ab7ea7c4",
+  "lastOpenFiles": [
+    "LeetCode/448 - Find All Numbers Disappeared in an Array.md",
+    "488.md",
+    "LeetCode/217 - Contains Duplicates.md",
+    "Templates/LeetCode/Solution.md",
+    "Templates/LeetCode/Solutions.md",
+    "Scripts/my_script.js.md",
+    "Templates/LeetCode Note.md",
+    "Screen Shot 2021-10-15 at 10.39.21 AM.png",
+    "Screen Shot 2021-10-27 at 2.15.45 PM.png",
+    "Food/index.md.md"
+  ]
+}
