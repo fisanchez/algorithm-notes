@@ -5,11 +5,12 @@
 - Time: 
 - Space:
 
+**LC Results**
+
 **Code**
 ```
 <CODE>
 ```
-**Explanation**
 
 **Tips**
 
