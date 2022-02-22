@@ -6,6 +6,8 @@
 - Space:
 
 **LC Results**
+- Runtime: 
+- Memory:
 
 **Code**
 ```

@@ -1,8 +1,5 @@
 # {{title}}
-Date: {{date}}
-Time: {{time}}
-
-## Description
+<Describe prompt>
 
 **Constraints**
 
