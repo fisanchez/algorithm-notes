@@ -32,7 +32,10 @@ Where you want your your product to be in the future
 
 #### **Persona(s)**
 
-Who the product is for.
+Timmy Turner:
+	- 14 -18 years old
+	- High school student
+	- Member of robotics
 
 ## **Release**
 
@@ -70,6 +73,30 @@ Release dependencies
 
 **Description:** When the student arrives at the building they will be able to check in to the building through a web portal. This data should be viewable in real time.
 
+**Purpose:** The student should be able to check in
+
+**User Value:** This process should be as streamlined as possible 
+
+**Assumption:** 
+	- User will already be registered
+	- Will be run from a tablet
+	- Will have inconsistant internet connection
+	- Will be handled by 14 - 18 year olds
+	- Process will be done outdoors
+
+**Not Doing:** Checkout, registration
+
+**Acceptance Criteria:** 
+	- User is able to check in without assistance
+	- User is able to check in on a tablet without assistance
+	- Check in is useable in an ourdoor setting
+
+### **Registration**
+
+**Feature:** Feature or user story name.
+
+**Description:** Description of what the new feature will do.
+
 **Purpose:** Task or action the user wants to accomplish
 
 **User Value:** Pain point or challenge
@@ -79,9 +106,6 @@ Release dependencies
 **Not Doing:** Anything that is out of scope for this feature
 
 **Acceptance Criteria:** Conditions of acceptance
-
-### **Name of Feature 2**
-
 …
 
 ## **User Flow and design**
