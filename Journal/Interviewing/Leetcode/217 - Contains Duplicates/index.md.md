@@ -1,3 +1,9 @@
+---
+title: 217 - Contains Duplicates 
+date: 2022-03-08
+description: ""
+---
+
 # 217 - Contains Duplicates
 ***Given an integer array `nums`, return `true` if any value appears **at least twice** in the array, and return `false` if every element is distinct.***
 

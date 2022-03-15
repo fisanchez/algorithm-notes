@@ -1,0 +1,11 @@
+{
+  "name": "algorithms-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fisanchez/algorithm-notes.git",
+  "author": "Fernando Sanchez <fernando.sanchez@vitalsource.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@mdx-js/mdx": "^2.0.0"
+  }
+}

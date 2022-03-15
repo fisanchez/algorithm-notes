@@ -1,3 +1,9 @@
+---
+title: 713 - Subarray Product Less than K 
+date: 2022-03-08
+description: ""
+---
+
 # 713 - Subarray product less than k
 Given an array of integers `nums` and an integer `k`, return _the number of contiguous subarrays where the product of all the elements in the subarray is strictly less than_ `k`.
 
@@ -33,7 +39,7 @@ Because we are traversing the entire array for each value as a worst case scenar
 	> O(1), after initializing our variables we don't require additional memory
 
 **LC Results**
-- Runtime: 1048 ms, faster than 23.99% of JavaScript online submissions 
+- Runtime: 1048 ms, faster than 23.99% of JavaScript online submissions
 - Memory: 47.7 MB, less than 39.68% of JavaScript online submissions
 
 **Code**
@@ -68,14 +74,14 @@ const numSubarrayProductLessThanK = (nums, k) =>{
 ### Approach - Optimal Solution
 Using a two pointer approach we will initialize our left and right pointers to index 0 and keep track of both our counter and product.
 
-Both pointers will iterate through the entire array. When the existing product * the value at right index, we update the counter and product. Remember, if the product of two numbers is less than k, that also means the compoents are also less than k. To adjust for this, we take the difference of the right and left value and add 1. 
+Both pointers will iterate through the entire array. When the existing product * the value at right index, we update the counter and product. Remember, if the product of two numbers is less than k, that also means the compoents are also less than k. To adjust for this, we take the difference of the right and left value and add 1.
 
 When the existing product times the current value at right index is greater than k, we want to remove the left value from the product total. We can do this by dividing the product by the left value.
 
 **Complexities**
 - Time: O(n) where n is the size of the array
 	> We are only iterating through the array once
-- Space: O(1) no additional memory is needed 
+- Space: O(1) no additional memory is needed
 
 **LC Results**
 - Runtime: 76 ms, faster than 97.71% of JavaScript online submissions

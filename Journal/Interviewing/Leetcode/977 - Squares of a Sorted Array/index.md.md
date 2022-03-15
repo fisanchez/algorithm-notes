@@ -1,4 +1,9 @@
-# 977 - Squares of a Sorted Array
+---
+title: 977 - Squares of a Sorted Array 
+date: 2022-03-08
+description: "Level: Easy, Category: Array"
+---
+
 Given an integer array `nums` sorted in **non-decreasing** order, return _an array of **the squares of each number** sorted in non-decreasing order_.
 
 **Constraints**

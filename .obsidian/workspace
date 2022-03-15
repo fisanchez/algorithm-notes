@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Interviewing/Leetcode/217 - Contains Duplicates.md",
+            "file": "Journal/Interviewing/Leetcode/977 - Squares of a Sorted Array/index.md.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 575
   },
   "right": {
     "id": "dbfdb65d28988450",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Interviewing/Leetcode/217 - Contains Duplicates.md",
+                "file": "Journal/Interviewing/Leetcode/977 - Squares of a Sorted Array/index.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "53291883adb4e2b7",
   "lastOpenFiles": [
-    "Journal/Interviewing/Leetcode/217 - Contains Duplicates.md",
-    "Journal/Interviewing/Leetcode/448 - Find All Numbers Disappeared in an Array.md",
-    "Journal/Interviewing/Leetcode/977 - Squares of a Sorted Array.md",
-    "Journal/Interviewing/Leetcode/713 - Subarray product less than k.md",
-    "Projects/JSAC Building Tracker/Product Requirements.md",
+    "Journal/Interviewing/Leetcode/977 - Squares of a Sorted Array/index.md.md",
+    "Journal/Interviewing/Leetcode/713 - Subarray product less than k/index.md.md",
+    "Journal/Interviewing/Leetcode/448 - Find All Numbers Disappeared in an Array/index.md.md",
+    "Journal/Interviewing/Leetcode/217 - Contains Duplicates/index.md.md",
+    "Journal/Interviewing/Leetcode/904 - Fruits into Baskets/index.md.md",
+    "Templates/Headers/LC Header.md",
+    "Templates/LeetCode/Solutions.md",
+    "Templates/LeetCode/Solution.md",
     "Journal/Whiteboarding Tips.md",
-    "Projects/JSAC Building Tracker/Test.md",
-    "Templates/Project/Feature.md",
-    "Templates/Project/Product Requirements.md",
-    "Templates/LeetCode/Solutions.md"
+    "Projects/JSAC Building Tracker/Product Requirements.md"
   ]
 }

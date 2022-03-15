@@ -16,6 +16,10 @@ Breadth first coding: A hack - decompose your approach to high level functions i
 
 Tips: 
 - Leave yourself room between each line for edits
-- 
+- Star things that you're not sure about
 
+**Test**
+Take the examples from earlier to run through the code.
 
+**Optimization**
+How will this perform for large datasets
