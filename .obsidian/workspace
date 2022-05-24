@@ -4,12 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "53291883adb4e2b7",
+        "id": "41a3cc5dd0b1be1f",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "acc0eda2b5c58fdb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Events/RailsConf 2022/Typing your application/index.md",
+            "file": "Zettelkasten/Permanent.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Events/RailsConf 2022/Typing your application/index.md",
+                "file": "Zettelkasten/Permanent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "53291883adb4e2b7",
+  "active": "acc0eda2b5c58fdb",
   "lastOpenFiles": [
-    "Journal/Events/RailsConf 2022/Typing your application/index.md",
-    "Journal/Events/RailsConf 2022/Advanced Active Record.md",
-    "Journal/Events/RailsConf 2022/Rebase.md",
-    "Journal/Events/RailsConf 2022/Rails 7 Front End.md",
-    "Journal/Events/RailsConf 2022/Open source is for everyone.md",
-    "Journal/Events/RailsConf 2022/Functional Programming in Plain Terms.md",
-    "Journal/Events/RailsConf 2022/Geolocation Explained.md",
-    "Journal/Events/RailsConf 2022/Let Your Body Lead Career Planning With Somatics.md",
-    "Journal/Zettelkasten/index.md",
-    "Journal/Events/RailsConf 2022/Ruby Event Streaming.md"
+    "Zettelkasten/Permanent.md",
+    "Zettelkasten/Fleeting Notes/Untitled.md",
+    "Zettelkasten/Fleeting Notes/ra.md",
+    "Templates/Zettle.md",
+    "Templates/Untitled.md",
+    "Zettelkasten/Literature Notes.md",
+    "202205241631.md",
+    "Zettelkasten/index.md",
+    "Zettelkasten/Fleeting Notes.md",
+    "202205241608.md"
   ]
 }
